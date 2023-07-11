@@ -62,6 +62,7 @@ An advanced development platform that enable organizations to create powerful en
 
 - [Power Apps (Microsoft)](https://powerapps.com/) - Build apps in hours—not months—that easily connect to data, use Excel-like expressions to add logic, and run on the web, iOS, and Android devices.
 - [Power BI](https://powerbi.microsoft.com/) - Unify data from many sources to create interactive, immersive dashboards and reports that provide actionable insights and drive business results.
+- [Tabidoo](https://tabidoo.cloud) - Interesting LowCode platform that doesn charge per user. Mature Rights Management, Workflows, REST API integrations and much more.
 - [Appian](https://appian.com/) - Provides a Low Code software development platform that enables organizations to rapidly develop powerful applications.
 - [Mendix](https://mendix.com/) - The fastest and easiest high-productivity platform to create and continuously improve multi-channel applications at scale.
 - [OutSystems](https://www.outsystems.com/) - A Low Code platform that enables businesses to develop, deploy, and manage enterprise-grade apps.
